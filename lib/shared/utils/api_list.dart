@@ -5,5 +5,4 @@ class ApiList {
   static String verifyOTP = "$baseUrl/auth/registration-otp-codes/actions/phone/verify-otp";
   static String contactUsers = "$baseUrl/chat/chat-messages/queries/contact-users";
   static String chat = "$baseUrl/chat/chat-messages/queries/chat-between-users/81/99";
-
 }
